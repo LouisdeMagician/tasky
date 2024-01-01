@@ -32,7 +32,7 @@ Tasky is an easy-to-use command-line task management tool designed to help users
 
 Clone the repository to a new folder `Tasky` in the home directory:
 
-    git clone https://github.com/LouisdeMagician/tasky ~/Tasky
+    git clone https://github.com/LouisdeMagician/tasky.git ~/Tasky
 
 Navigate to the Tasky directory:
 
