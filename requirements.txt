@@ -1,0 +1,6 @@
+aiofiles==23.2.1
+pushbullet.py==0.12.0
+pyfiglet==0.8.post1
+rich==13.7.0
+schedule==1.2.1
+pytest==7.4.3

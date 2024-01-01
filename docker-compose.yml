@@ -1,0 +1,15 @@
+version: '3'
+services:
+  background_script:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python3", "btasky.py"]
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/Tasky
+      - /etc/localtime:/etc/localtime:ro
+    image: tasky_image:1.0
+    privileged: true
+    restart: unless-stopped
