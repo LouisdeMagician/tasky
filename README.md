@@ -332,4 +332,4 @@ Feel free to contribute to Tasky by opening issues, submitting feature requests,
 
 ## License:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/LouisdeMagician/tasky/blob/main/LICENSE) file for details.
