@@ -22,7 +22,7 @@ Tasky is an easy-to-use command-line task management tool designed to help users
 
   ***Security:*** Tasky comes with a password feature 'Passkey', to prevent unauthorized access and enhance privacy. Tasky Passkey passkey feature contains advanced functionalities such as password hashing and password resets. Tasky also notifies you when a wrong Passkey is entered and access is denied.
 
-### Video Demo: [Tasky CLI tool](https://youtu.be/Cuu1tivU1q4?feature=shared)
+### Video Demo: [Tasky CLI tool](https://youtu.be/trRACfIFKz0?si=RF9WQsE0MoYLi4Fd)
 
 
 
